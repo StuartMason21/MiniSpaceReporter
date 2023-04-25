@@ -17,7 +17,7 @@ def main():
 
 
 def get_target_space():
-    target = input("please paste your target path: ")
+    target = input("Please paste your target path to obtain disk usage (not folder size specifically): ")
 
     try:
 
